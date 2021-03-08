@@ -11,8 +11,8 @@
 To collect Personal information from the user that is for a specific purpose or activities with the agency. Only collect the information that is needed. Information collected must be done within a lawful manner and not be misused or modified.
 
 Two actionable items for this principal would be:
-- [ ] User must provide only the information that is needed to carry out the specific purpose that is required by the agency
-- [ ] Agency must only use information given by the user for its intended purpose.
+- [ ] User must be asked to provide email address in order for the agency to identify the user.
+- [ ] User must be informed of the intended purpose of the information that they have provided to the agency.
 
 <!-- this is getting there, just one more iteration e hoa-->
 ### Principal 3
@@ -23,7 +23,7 @@ Collection of personal information directly from the individual concerned. Indiv
 
 Two actionable items for this principal would be:
 - [ ] User must be informed of the intended recipients of the information that they have provided.
-- [ ] User must know that the information they have provided is been collected and for which purpose for.
+- [ ] User must know what the intended purpose of the information that they have provided to the agency is for.
 
 ### Principal 5
 
@@ -32,8 +32,8 @@ Two actionable items for this principal would be:
 Agency holds and stores personal information of users. Information stored should be safe from loss, modification or misuse unless stated by the individual and/or agency.
 
 Two actionable items for this principal would be:
-- [ ] User is informed where information will be stored
-- [ ] User information must be stored safe so it can not be modified or misused
+- [ ] User is informed where their information will be stored within the agency.
+- [ ] User information must be stored safe so it can not be modified or misused.
 
 ### Principal 6
 
@@ -42,8 +42,8 @@ Two actionable items for this principal would be:
 Individual can access thier personal information from agency when required. Individual can request correction of thier information.
 
 Two actionable items for this principal would be:
-- [ ] User can ask and confirm if agency is holding the correct information user has provided
-- [ ] User can access thier personal information for a certain purpose
+- [ ] User can ask and confirm if agency is holding the correct information user has provided.
+- [ ] User can access thier personal information for a certain purpose.
 
 ### Principal 7
 
@@ -52,8 +52,8 @@ Two actionable items for this principal would be:
 Where an agency holds an individuals personal information, The individual should be able to request correction of the information, and also evidence that a correction has been made. Information must be accurate and up to date. Agency should take such steps to make sure information changed modified by the individual can always be viewed as corrected. Individual and agency should be informed of steps taken to insure these changes. Individual should be informed of the results of the request.
 
 Two actionable items for this principal would be:
-- [ ] User can request to their information from the agency to modify
-- [ ] User can be informed of results of request made to agency and changes that were made to thier personal information
+- [ ] User can request to their information from the agency so user can modify or update their information.
+- [ ] User can be informed of results of request made to agency and changes that were made to thier personal information.
 
 # 2. Privacy Policy
 
