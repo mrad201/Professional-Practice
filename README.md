@@ -1,5 +1,9 @@
 # Professional-Practice
 
+# Assessment 1: Practical Tasks: IT and Law
+
+# 1. Privacy Checklist
+
 ### Principal 1
 
 #### Purpose of collection of personal information
@@ -49,3 +53,32 @@ Where an agency holds an individuals personal information, The individual should
 Two actionable items for this principal would be:
 - User can request to modify thier personal information
 - User can be informed of results of request
+
+# 2. Privacy Policy
+
+The website I have selected is www.mightyape.co.nz. This website sells everything from computers, books, to games for children. The type of data that they collect is personal user information including but not limited to: Name, Address, Emai also Billing Information.
+
+### Privacy Policy for website selected. 
+
+We collect personal information from you, including information about your:
+name
+contact information
+billing or purchase information
+We collect your personal information in order to:
+Send products to the customer
+Providing some information is optional. If you choose not to enter their address, we'll be unable to send them their products they purchased.
+We keep your information safe by storing it in a secure database and only allowing certain staff to view .
+
+You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at info@mightyape.co.nz , or 24/28 Highgate Parkway, Silverdale 0932.
+
+#### My privacy policy implements each of the five principles analysed in the privacy checklist as follows:
+
+Principal 1 as the website needs to collect user personal information in order to process and send out products that the user has purchased. Only the information required to carry out the specific task will be asked for.
+
+Principal 3 is shown by obtaining the users information directly from the user and not from a third party. User is informed the purpose of why the information is been collected. Also the recipients of the information.
+
+Principal 5 is shown by storing users information in a secure database and only allowing certain staff to view.
+
+Principal 6 is shown by the user been able to sign up and log in to their personal account, and update or modify any of their personal information that they would like.
+
+Principal 7 is shown by the user been able to request any information held by the agency to be modified or updated. The user should be able to view that a modification has been made by agency of the information, and the steps taken to carry out this request.
