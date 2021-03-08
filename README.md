@@ -14,7 +14,7 @@ Two actionable items for this principal would be:
 - [ ] User must provide only the information that is needed to carry out the specific purpose that is required by the agency
 - [ ] Agency must only use information given by the user for its intended purpose.
 
-<!-- is the purupose spoken about in these actionable items?  please add that level of questioning -->
+<!-- this is getting there, just one more iteration e hoa-->
 ### Principal 3
 
 #### Collection of information from subject
