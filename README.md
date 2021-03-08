@@ -14,7 +14,7 @@ Two actionable items for this principal would be:
 
 #### Collection of information from subject
 
-Collection of personal information directly from the individual concerned.
+Collection of personal information directly from the individual concerned. Individual should be aware of the fact that the information is been collected, the purpose for which the information is being collected, the intended recipients of the information. If there are any consequences for the individual if the information requested is not provided.
 
 Two actionable items for this principal would be:
 - User must be informed of the intended recipients of the information
@@ -24,7 +24,7 @@ Two actionable items for this principal would be:
 
 #### Storage and security of personal information
 
-Agency holds and stores personal information of users
+Agency holds and stores personal information of users. Information stored should be safe from loss, modification or misuse unless stated by the idnividual and/or agency.
 
 Two actionable items for this principal would be:
 - User is informed where information will be stored
@@ -34,7 +34,7 @@ Two actionable items for this principal would be:
 
 #### Access to personal information
 
-Individual can access thier personal information from agency when required
+Individual can access thier personal information from agency when required. Individual can request correction of thier information.
 
 Two actionable items for this principal would be:
 - User can confirm if agency is holding the correct information
