@@ -1,4 +1,4 @@
-# Professional- [ ]Practice
+# Professional Practice
 
 # Assessment 1: Practical Tasks: IT and Law
 
