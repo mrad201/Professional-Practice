@@ -57,7 +57,7 @@ Two actionable items for this principal would be:
 
 # 2. Privacy Policy
 
-The website I have selected is www.mightyape.co.nz. This website sells everything from computers, books, to games for children. The type of data that they collect is personal user information including but not limited to: Name, Address, Emai also Billing Information.
+The website I have selected is www.mightyape.co.nz. This website sells everything from computers, books, to games for children. The type of data that they collect is personal user information including but not limited to: Name, Address, Email also Billing Information.
 
 ### Privacy Policy for website selected. 
 
