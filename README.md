@@ -14,7 +14,7 @@ Two actionable items for this principal would be:
 - [ ] User must be asked to provide email address in order for the agency to identify the user.
 - [ ] User must be informed of the intended purpose of the information that they have provided to the agency.
 
-<!-- this is getting there, just one more iteration e hoa-->
+
 ### Principal 3
 
 #### Collection of information from subject
